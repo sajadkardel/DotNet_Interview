@@ -2,6 +2,7 @@
 
 * What?
   * IQueryable
+  * IQueryable vs IEnumerable
 
 * Syntax
   * Query Syntax
