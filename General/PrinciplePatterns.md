@@ -16,14 +16,12 @@
   * D - Dependency Inversion Principle
 
 * Keep It Simple, Stupid (KISS)
-* Write DRY Code
+* Don’t Repeat Yourself (DRY)
+* You Aren't Going to Need It (YAGNI)
 * Open/Closed
 * Composition Over Inheritance
-* Single Responsibility
 * Separation of Concerns
-* You Aren't Going to Need It (YAGNI)
 * Document Your Code
-* Refactor
 * Clean Code At All Costs
 * TDD (Test Driven Development)
 * BDD (Behavior Driven Development)
