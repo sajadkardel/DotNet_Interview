@@ -1,5 +1,101 @@
 # CSharp & .Net
 
+* Data Types
+  * Value Types
+  * Reference Types
+  * Call By Reference & Call By Value
+ 
+  * Integral Types
+    * byte (Byte in .net) & sbyte (SByte in .net)
+    * short (Int16 in .net) & ushort (Int16 in .net)
+    * int (Int32 in .net) & uint (Int32 in .net)
+    * long (Int64 in .net) & ulong (Int64 in .net)
+    * BigInteger (For .Net BCL)
+
+  * Floating Types
+    * Half (For .Net BCL)
+    * float (Single in .net)
+    * double (Double in .net)
+    * decimal (Decimal in .net)
+
+  * String
+    * char (Char in .net)
+    * String (String in .net)
+    * StringBuilder (just in .net)
+
+  * Delegate
+    * delegate
+    * Func
+    * Action
+
+  * Generic
+
+  * Anonymous
+
+  * Date and Time
+    * TimeSpan
+    * DateTime
+    * DateTimeOffset
+    * TimeZoneInfo
+    * UTC
+    * Alternatives
+
+  * Collection
+    * IEnumrator
+    * IEnumerable
+    * ICollection
+    * IList
+    * IDictionary
+
+  * Object Types
+    * class
+    * struct
+    * record
+    * tuple
+
+* Keywords
+  * const
+  * readonly
+  * static
+  * ref & out & in
+  * params
+  * sealed classes
+  * partial classes
+  * virtual & override
+  * event
+  * using
+  * yield
+  * void
+  * init only
+  * if & switch
+    * Difference between `is` & `==`
+  * for & foreach & while & do-while
+    * Difference between `continue` & `return` & `break`
+
+* GC (Garbage Collector)
+  * What / How?
+  * Dispose
+  * Close
+  * Finalizer
+  * Destructor
+
+* Concurrency
+  * Process
+  * Thread
+  * Join & Sleep
+  * Parallel
+  * Sync
+  * Async
+  * Await
+  * Shared State
+  * Local State
+
+* Casting
+  * Implicit Convert & Explicit Convert
+  * Up-Casting & Down-Casting
+  * Boxing & Unboxing
+  * Operator Casting
+
 * General
   * Primary Constructor
   * Static Constructor
@@ -19,88 +115,3 @@
     * Singleton
     * Scope
     * Transient
-
-* Data Types
-  * Value Types
-  * Reference Types
-  * Call By Reference & Call By Value
-  * Integral Data Types
-    * byte (Byte in .net) / sbyte (SByte in .net)
-    * short (Int16 in .net) / ushort (Int16 in .net)
-    * int (Int32 in .net) / uint (Int32 in .net)
-    * long (Int64 in .net) / ulong (Int64 in .net)
-    * BigInteger (For .Net BCL)
-  * Floating Data Types
-    * Half (For .Net BCL)
-    * float (Single in .net)
-    * double (Double in .net)
-    * decimal (Decimal in .net)
-  * String Types
-    * char (Char in .net)
-    * String (String in .net)
-    * StringBuilder (just in .net)
-  * bool (Boolean in .net)
-  * Delegate Types
-    * Delegate
-    * Event
-    * Function
-    * Action
-  * Generics
-  * Anonymous
-  * Dates and Times
-    * TimeSpan
-    * DateTime
-    * DateTimeOffset
-    * TimeZoneInfo
-    * UTC
-    * Alternatives
-  * Collections
-    * IEnumrator
-    * IEnumerable
-    * ICollection
-    * IList
-    * IDictionary
-
-* Keywords
-  * constant
-  * readonly
-  * static
-  * ref \ out \ in
-  * params
-  * sealed classes
-  * partial classes
-  * virtual / override
-  * using
-  * yield
-  * init only
-  * if / switch
-    * Difference between `is` / `==`
-  * for / foreach
-    * Difference between `continue` / `return` / `break`
-
-* GC (Garbage Collector)
-  * What / How?
-  * Dispose
-  * Close
-  * Finalizer
-  * Destructor
-
-* Concurrency
-  * Process
-  * Thread
-  * Join / Sleep
-  * Parallel
-  * Sync
-  * Async
-  * Await
-  * Shared State
-  * Local State
-
-* Type Casting
-  * Implicit Convert
-  * Explicit Convert
-  * Up Casting
-  * Down Casting
-  * Boxing
-  * Unboxing
-  * Operators Casting
