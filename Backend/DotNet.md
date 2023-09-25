@@ -62,18 +62,21 @@
     * IDictionary
 
 * Keywords
-  * Constans
-  * Readonly
-  * Ref \ Out \ In
-  * Params
-  * Sealed Classes
-  * Partial Classes
-  * Virtual / Override
-  * Static
-  * Using
-  * Yield
-  * Init only
-  * Continue / Return / Break
+  * constant
+  * readonly
+  * static
+  * ref \ out \ in
+  * params
+  * sealed classes
+  * partial classes
+  * virtual / override
+  * using
+  * yield
+  * init only
+  * if / switch
+    * Difference between `is` / `==`
+  * for / foreach
+    * Difference between `continue` / `return` / `break`
 
 * GC (Garbage Collector)
   * What / How?
