@@ -28,10 +28,6 @@
     * Func
     * Action
 
-  * Generic
-
-  * Anonymous
-
   * Date and Time
     * TimeSpan
     * DateTime
@@ -51,7 +47,14 @@
     * class
     * struct
     * record
+      * record class
+      * record struct
     * tuple
+    * enum
+    * Anonymous
+    * Generic
+
+<hr />
 
 * Keywords
   * const
@@ -59,14 +62,15 @@
   * static
   * ref & out & in
   * params
-  * sealed classes
-  * partial classes
+  * sealed
+  * partial
   * virtual & override
   * event
   * using
   * yield
   * void
-  * init only
+  * init-only setters
+  * with
   * if & switch
     * Difference between `is` & `==`
   * for & foreach & while & do-while
@@ -97,6 +101,7 @@
   * Operator Casting
 
 * General
+  * Default Constructor
   * Primary Constructor
   * Static Constructor
   * Access Modifiers
