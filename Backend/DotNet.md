@@ -47,6 +47,8 @@
     * class
     * struct
     * record
+      * positional record
+      * nominal record
       * record class
       * record struct
     * tuple
