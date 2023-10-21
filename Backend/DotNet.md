@@ -27,11 +27,14 @@
     * delegate
     * Func
     * Action
+    * Predicate
 
   * Date and Time
     * TimeSpan
     * DateTime
     * DateTimeOffset
+    * DateOnly
+    * TimeOnly
     * TimeZoneInfo
     * UTC
     * Alternatives
