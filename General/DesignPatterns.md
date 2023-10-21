@@ -8,7 +8,7 @@
 	* Builder
 	* Object Pool
 
-* Behavioral
+* Structural
 	* Adapter 
 	* Decorator
 	* Facade
@@ -17,7 +17,7 @@
 	* Flyweight
 	* Proxy
 
-* Structural
+* Behavioral
 	* Chain of responsibility
 	* Strategy
 	* Iterator
