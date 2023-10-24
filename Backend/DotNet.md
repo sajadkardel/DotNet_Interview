@@ -6,28 +6,34 @@
   * Call By Reference & Call By Value
  
   * Integral Types
-    * byte (Byte in .net) & sbyte (SByte in .net)
-    * short (Int16 in .net) & ushort (Int16 in .net)
-    * int (Int32 in .net) & uint (Int32 in .net)
-    * long (Int64 in .net) & ulong (Int64 in .net)
-    * BigInteger (For .Net BCL)
+    * byte & sbyte
+    * short & ushort
+    * int & uint
+    * long & ulong
+    * BigInteger (.Net BCL)
 
   * Floating Types
-    * Half (For .Net BCL)
-    * float (Single in .net)
-    * double (Double in .net)
-    * decimal (Decimal in .net)
+    * Half (.Net BCL)
+    * float (Same as `Single` in .Net)
+    * double
+    * decimal
 
   * String
-    * char (Char in .net)
-    * String (String in .net)
-    * StringBuilder (just in .net)
+    * char
+    * String
+    * StringBuilder (.Net BCL)
 
   * Delegate
     * delegate
     * Func
     * Action
     * Predicate
+    * Event
+    * Lambda Expressions
+      * Closures
+      * Captured variables
+      * Expression tree
+      * Lambda Expressions Versus Local Methods
 
   * Date and Time
     * TimeSpan
@@ -39,14 +45,21 @@
     * UTC
     * Alternatives
 
-  * Collection
+  * Arrays & Collections
     * IEnumrator
     * IEnumerable
     * ICollection
     * IList
     * IDictionary
+    * BitArray
+    * ArrayPool
 
-  * Object Types
+  * Generic
+    * Constraints
+    * Covariance
+    * Contravariance
+  
+  * Objects
     * class
     * struct
     * record
@@ -57,7 +70,6 @@
     * tuple
     * enum
     * Anonymous
-    * Generic
 
 <hr />
 
